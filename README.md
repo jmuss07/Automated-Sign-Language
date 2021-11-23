@@ -1,1 +1,1 @@
-# Automated-Sign-Language
+# Automated Sign Language
