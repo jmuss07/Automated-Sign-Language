@@ -7,7 +7,7 @@
 
 ## Goals and Planning
 
-**Mission Statement**: To create a robotic, anthropomorphic hand that can display the ASL alphabet and basic one-handed gestures.
+**Description**: A robotic, anthropomorphic hand that can display the ASL alphabet and basic one-handed gestures.
 
 **Test of Success**: Through the hand, using the ASL alphabet, a word can be transmitted, received, and interpreted in under two minutes.
 
