@@ -23,4 +23,20 @@
   - Thumbs-up and thumbs-down require arm rotation.
   - etc.
 
+### Work Delegation
+
+| Category               | Josie | Henry |
+| ---------------------- | ----- | ----- |
+| Speech-to-text         | 65%   | 35%   |
+| Finger & Wrist control | 35%   | 65%   |
+
+_Note: These numbers and divisions are pretty arbitrary._
+
+### Estimated Cost
+
+| Item  | Cost per Item | Quantity | Total Cost |
+| ----- | ------------- | -------- | ---------- |
+| Servo | $5.95         | 8        | $47.60     |
+
+
 ## About Us
