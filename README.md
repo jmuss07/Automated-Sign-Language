@@ -24,4 +24,3 @@
   - etc.
 
 ## About Us
-
