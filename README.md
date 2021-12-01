@@ -24,8 +24,3 @@
   - etc.
 
 ## About Us
-
-hi im super cool 
-
-im even cooler
-n

@@ -5,4 +5,3 @@
 - Writing robot? That takes speech -> text -> coordinates -> writing.
 
 - ?
-fejfefefeofowfjewfowofewojfweof
