@@ -24,3 +24,4 @@
   - etc.
 
 ## About Us
+I'm the cooler one
