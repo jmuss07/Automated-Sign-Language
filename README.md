@@ -38,5 +38,4 @@ _Note: These numbers and divisions are pretty arbitrary._
 | ----- | ------------- | -------- | ---------- |
 | Servo | $5.95         | 8        | $47.60     |
 
-
 ## About Us
