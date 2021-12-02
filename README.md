@@ -34,8 +34,12 @@ _Note: These numbers and divisions are pretty arbitrary._
 
 ### Estimated Cost
 
-| Item  | Cost per Item | Quantity | Total Cost |
-| ----- | ------------- | -------- | ---------- |
-| Servo | $5.95         | 8        | $47.60     |
+| Item                        | Cost per Item    | Quantity | Total Cost |
+| --------------------------- | ---------------- | -------- | ---------- |
+| Servo                       | $5.95            | 8        | $47.60     |
+| 3D Printer Model Material   | $2.43 (per in^3) | 8 in^3   | $19.44     |
+| 3D Printer Support Material | $4.76 (per in^3) | 1.5 in^3 | $7.14      |
+
+_Thanks to [Sigma Lab Wiki](http://wiki.chssigma.com/index.php?title=Sigma_Lab_Equipment_Costs) for the numbers._
 
 ## About Us
