@@ -11,7 +11,7 @@
 
 **Test of Success**: Through the hand, using the ASL alphabet, a word can be transmitted, received, and interpreted in under two minutes.
 
-**Proof of Concept**: [ASLAN robot](https://techcrunch.com/2017/08/18/this-3d-printed-robotic-arm-is-built-for-sign-language/) made by Uni. of Antwerp students.
+**Proof of Concept**: [ASLAN robot](https://www.hubs.com/blog/theres-not-enough-sign-language-translators-so-these-students-3d-printed-a-humanoid-robot/) made by Uni. of Antwerp students.
 
 ### What we don't know
 
@@ -34,11 +34,21 @@ _Note: These numbers and divisions are pretty arbitrary._
 
 ### Estimated Cost
 
-| Item                        | Cost per Item    | Quantity | Total Cost |
-| --------------------------- | ---------------- | -------- | ---------- |
-| Servo                       | $5.95            | 8        | $47.60     |
-| 3D Printer Model Material   | $2.43 (per in^3) | 8 in^3   | $19.44     |
-| 3D Printer Support Material | $4.76 (per in^3) | 1.5 in^3 | $7.14      |
+| Item                        | Cost per Item          | Quantity                  | Total Cost |
+| --------------------------- | ---------------------- | ------------------------- | ---------- |
+| Servo                       | $5.95                  | 8                         | $47.60     |
+| 3D Printer Model Material   | $2.43 / in<sup>3</sup> | 8 in<sup>3</sup>          | $19.44     |
+| 3D Printer Support Material | $4.76 / in<sup>3</sup> | 1.5 in<sup>3</sup>        | $7.14      |
+| 1/8" Acrylic Sheet          | $2.65 / ft<sup>2</sup> | 9.5 ft<sup>2</sup>        | $25.18     |
+| Wire                        | $0.08 / ft             | 6 ft                      | $0.48      |
+| Panel-mount SPDT Switch     | $0.95                  | 1                         | $0.95      |
+| LED (Green or Red)          | $0.16                  | 1                         | $0.16      |
+| Arduino Uno/Metro           | $24.95                 | 1                         | $24.95     |
+| Arduino Prototyping Shield  | $11.49                 | 1                         | $11.49     |
+| Raspberry Pi                | $35.00                 | 1                         | $35.00     |
+|                             |                        | **Final Estimated Cost**: | $172.39    |
+
+Yes, this estimated cost is rather high. However, a lot of these materials are readily available already in the Sigma Lab, and can be re-used for future projects.
 
 _Thanks to [Sigma Lab Wiki](http://wiki.chssigma.com/index.php?title=Sigma_Lab_Equipment_Costs) for the numbers._
 
