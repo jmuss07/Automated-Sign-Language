@@ -32,6 +32,13 @@
 
 _Note: These numbers and divisions are pretty arbitrary._
 
+### Timeline
+
+| Date       | Goal       |
+| ---------- | -----------|
+| Winter Break |<ul><li>Hand modeled </ul> <ul><li>Finger control (base)</ul><ul><li>Text-to-chain</ul>|
+|End of Q2 | <ul><li>Hand control prototyped</ul> <ul><li> Framework for signs</ul>|
+
 ### Estimated Cost
 
 | Item                        | Cost per Item          | Quantity                  | Total Cost |
