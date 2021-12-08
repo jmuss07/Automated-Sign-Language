@@ -59,6 +59,10 @@ Yes, this estimated cost is rather high. However, a lot of these materials are r
 
 _Thanks to [Sigma Lab Wiki](http://wiki.chssigma.com/index.php?title=Sigma_Lab_Equipment_Costs) for the numbers._
 
+### Images
+
+![FrontOfArm](https://github.com/jmuss07/Automated-Sign-Language/blob/dec5cf5b68dd28cdcd7ed98c64007a657ec023e3/Images/Planning/FrontOfArm.png?raw=true)
+
 ## About Us
 
 ### **Henry Heisig**
