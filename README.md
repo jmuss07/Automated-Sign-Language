@@ -63,7 +63,7 @@ _Thanks to [Sigma Lab Wiki](http://wiki.chssigma.com/index.php?title=Sigma_Lab_E
 
 ![FrontOfArm](https://github.com/jmuss07/Automated-Sign-Language/blob/dec5cf5b68dd28cdcd7ed98c64007a657ec023e3/Images/Planning/FrontOfArm.png?raw=true)
 
-![BackOfArm](https://github.com/jmuss07/Automated-Sign-Language/blob/main/Images/Planning/BackOfArm.png?raw=true)
+![BackOfArm](https://github.com/jmuss07/Automated-Sign-Language/blob/5fbd7c9bcdf45daa6b4d2411afcacc0b252cb9f5/Images/Planning/BackOfArm.png?raw=true)
 
 *Credit to [Benton House](https://github.com/jhouse53) for the arm.*
 
