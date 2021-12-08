@@ -3,6 +3,11 @@
 ## Table of Contents
 
 - [Goals and Planning](#Goals-and-Planning)
+- [What We Don't Know](#What-We_Don't-Know)
+- [Work Delegation](#Work-Delegation)
+- [Timeline](#Timeline)
+- [Estimated Cost](#Estimated-Cost)
+- [Images](#Images)
 - [About Us](#About-Us)
 
 ## Goals and Planning
@@ -13,7 +18,7 @@
 
 **Proof of Concept**: [ASLAN robot](https://www.hubs.com/blog/theres-not-enough-sign-language-translators-so-these-students-3d-printed-a-humanoid-robot/) made by Uni. of Antwerp students.
 
-### What we don't know
+### What We Don't Know
 
 - How to make a moveable finger joint.
 - Typed input into letters, into hand sign. What's the process? (Library of servo movements? for each letter?).
@@ -63,7 +68,7 @@ _Thanks to [Sigma Lab Wiki](http://wiki.chssigma.com/index.php?title=Sigma_Lab_E
 
 ![FrontOfArm](https://github.com/jmuss07/Automated-Sign-Language/blob/dec5cf5b68dd28cdcd7ed98c64007a657ec023e3/Images/Planning/FrontOfArm.png?raw=true)
 
-![back-of-arm]()
+![back-of-arm](https://github.com/jmuss07/Automated-Sign-Language/blob/main/Images/Planning/back-of-arm.png?raw=true)
 
 ## About Us
 
