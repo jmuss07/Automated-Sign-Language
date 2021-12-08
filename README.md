@@ -34,10 +34,10 @@ _Note: These numbers and divisions are pretty arbitrary._
 
 ### Timeline
 
-| Date       | Goal       |
-| ---------- | -----------|
-| Winter Break |<ul><li>Hand modeled </ul> <ul><li>Finger control (base)</ul><ul><li>Text-to-chain</ul>|
-|End of Q2 | <ul><li>Hand control prototyped</ul> <ul><li> Framework for signs</ul>|
+| Date         | Goal                                                                                    |
+| ------------ | --------------------------------------------------------------------------------------- |
+| Winter Break | <ul><li>Hand modeled </ul> <ul><li>Finger control (base)</ul><ul><li>Text-to-chain</ul> |
+| End of Q2    | <ul><li>Hand control prototyped</ul> <ul><li> Framework for signs</ul>                  |
 
 ### Estimated Cost
 
@@ -60,3 +60,7 @@ Yes, this estimated cost is rather high. However, a lot of these materials are r
 _Thanks to [Sigma Lab Wiki](http://wiki.chssigma.com/index.php?title=Sigma_Lab_Equipment_Costs) for the numbers._
 
 ## About Us
+
+### **Henry Heisig**
+
+Hi! I'm Henry, a class of 2024 student at Charlottesville High School. You can contact me at [hheisig51@charlottesvilleschools.org](mailto:hheisig51@charlottesvilleschools.org) or [henrycheisig+github@gmail.com](mailto:henrycheisig+github@gmail.com), or find my work on [Github](https://github.com/hheisig51)
