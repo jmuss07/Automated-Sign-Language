@@ -3,11 +3,6 @@
 ## Table of Contents
 
 - [Goals and Planning](#Goals-and-Planning)
-- [What We Don't Know](#What-We_Don't-Know)
-- [Work Delegation](#Work-Delegation)
-- [Timeline](#Timeline)
-- [Estimated Cost](#Estimated-Cost)
-- [Images](#Images)
 - [About Us](#About-Us)
 
 ## Goals and Planning
