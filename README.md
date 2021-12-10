@@ -77,3 +77,25 @@ A basic sketch for how the tension of the front of the arm may look...
 ### **Henry Heisig**
 
 Hi! I'm Henry, a class of 2024 student at Charlottesville High School. You can contact me at [hheisig51@charlottesvilleschools.org](mailto:hheisig51@charlottesvilleschools.org) or [henrycheisig+github@gmail.com](mailto:henrycheisig+github@gmail.com), or find my work on [Github](https://github.com/hheisig51)
+
+
+
+## What Mr H needs from us
+### Your project's criteria and constraints
+(Henry needs to do this) 
+Criteria:  Specific goals, including what each part will do, and the basic needs (power led, switch, batteries, etc)
+
+Constraint: THIS IS BIG
+* Time:  Not only the due date (feb 1st is the goal), but you need to break this project into more managable chunks,  What will be done before xmas break?
+* Budget: Good material cost list, but what I need to know is "if we need to purchase materials beyond what the lab supplies, we are OK with spending up to $XX, each, if need be"
+* Safety:   I know you're going to be safe, thats not the point of this.  I need you to put in writing, your considerations of the possuble and expected risks associated with this project.   Will there be soldering?  could acrylic break?   Can this hand hurt you?   How many volts?  How can this hurt you??
+* KNOWLEDGE:  You have stated this elsewhere, but move it here and make it crystal clear:  What do you need to learn, in order to be successful at thisn project?
+
+### A shortlist of possible solutions your team considered.
+
+#### The solution you picked, and why
+
+### Design sketches/images captioned and very detailed
+
+(Josie is taking this)
+You did start this, but are lacking enough detail for how the arm will articulate, and how it will display each letter,
