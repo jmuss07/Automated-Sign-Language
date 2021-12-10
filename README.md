@@ -74,11 +74,12 @@ A basic sketch for how the tension of the front of the arm may look...
 
 ## About Us
 
+### **Josie Muss**
+
+Hey there! I'm Josie, and I'm a member of Charlottesville High School's class of 2023! You can find more of my projects on my [Github](https://github.com/jmuss07). Any questions for me on either this project or any of others that I've worked on can be sent to me at [jmuss07@charlottesvilleschools.org](mailto:jmuss07@charlottesvilleschools.org)
 ### **Henry Heisig**
 
 Hi! I'm Henry, a class of 2024 student at Charlottesville High School. You can contact me at [hheisig51@charlottesvilleschools.org](mailto:hheisig51@charlottesvilleschools.org) or [henrycheisig+github@gmail.com](mailto:henrycheisig+github@gmail.com), or find my work on [Github](https://github.com/hheisig51)
-
-
 
 ## What Mr H needs from us
 ### Your project's criteria and constraints
@@ -92,6 +93,10 @@ Constraint: THIS IS BIG
 * KNOWLEDGE:  You have stated this elsewhere, but move it here and make it crystal clear:  What do you need to learn, in order to be successful at thisn project?
 
 ### A shortlist of possible solutions your team considered.
+* Backup Plan: Expand on those ideas, but have them correlate more closely to the main project idea
+* Antwerp Version: Pros and cons of the advanced college one. What can we recreate? What's way to advanced and should be cut in order to simplify?
+* Beware the scope-drift
+* Expand on the list of challenges we have ("What We Don't Know" section); we know what we don't know, but what are some possible solutions
 
 #### The solution you picked, and why
 
