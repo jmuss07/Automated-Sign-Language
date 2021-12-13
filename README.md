@@ -23,6 +23,12 @@
   - Thumbs-up and thumbs-down require arm rotation.
   - etc.
 
+### What We Need to Learn
+
+- How to take audio (of speech), and turn it into a string interpretable by a microcontroller.
+- How a synthetic joint can be controlled by a servo motor.
+- How to use a raspberry pi (as a speech-to-text server) in coordination with an arduino (as a microcontroller).
+
 ### Work Delegation
 
 | Category               | Josie | Henry |
@@ -59,9 +65,21 @@ _Note: These numbers and divisions are pretty arbitrary._
 | Raspberry Pi                | $35.00                 | 1                         | $35.00     |
 |                             |                        | **Final Estimated Cost**: | $172.39    |
 
-Yes, this estimated cost is rather high. However, a lot of these materials are readily available already in the Sigma Lab, and can be re-used for future projects.
+Yes, this estimated cost is rather high. However, a lot of these materials are readily available already in the Sigma Lab, and can be re-used for future projects. If need be, _$40_ is available to purchase extra materials.
 
 _Thanks to [Sigma Lab Wiki](http://wiki.chssigma.com/index.php?title=Sigma_Lab_Equipment_Costs) for the numbers._
+
+### Parts and Uses
+
+| Part         | Use                                                                                                                 |
+| ------------ | ------------------------------------------------------------------------------------------------------------------- |
+| Microphone   | To pick up speech as audio.                                                                                         |
+| Raspberry Pi | To run a speech-to-text server, and turn the audio into strings, and the strings into commands sent to the arduino. |
+| Arduino      | To control the servos.                                                                                              |
+| Switch       | To turn the whole unit on and off.                                                                                  |
+| Arm Servos   | To rotate the arm, and bend the wrist.                                                                              |
+| Hand Servos  | To control the individual fingers on the hand.                                                                      |
+| Elastic      | To let the hand servos bend/extend the fingers on the hand.                                                         |
 
 ### Images
 
@@ -118,4 +136,4 @@ You did start this, but are lacking enough detail for how the arm will articulat
 
 ###
 
-I've been told that we should each come up with a sub design (such as servo in thumb versus with the other ones with a long string, smaller design features like that),so the project itself is the same its more just individual solution and more specified design features.
+I've been told that we should each come up with a sub design (such as servo ”in thumb versus with the other ones with a long string, smaller design features like that),so the project itself is the same its more just individual solution and more specified design features.
