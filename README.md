@@ -99,8 +99,13 @@ Constraint: THIS IS BIG
 * Expand on the list of challenges we have ("What We Don't Know" section); we know what we don't know, but what are some possible solutions
 
 #### The solution you picked, and why
+* How are we planning to actually solve the issues presentred (project modifications, smaller scale, etc)
+* Why did we choose these solutiuons
 
 ### Design sketches/images captioned and very detailed
 
 (Josie is taking this)
 You did start this, but are lacking enough detail for how the arm will articulate, and how it will display each letter,
+
+###
+I've been told that we should each come up with a sub design (such as servo in thumb versus with the other ones with a long string, smaller design features like that),so the project itself is the same its more just individual solution and more specified design features.
