@@ -6,6 +6,8 @@
 
 - Pointing robot? Speech -> text -> coordinates.
 
-**How they all relate**
+## How they all relate
 
-They all have **speech-to-text**
+- Speech-to-text
+- Mostly **hands-free**
+- Enabling somebody speaking to be bale to communicate with a hard-of-hearing person

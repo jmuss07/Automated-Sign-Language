@@ -151,3 +151,5 @@ You did start this, but are lacking enough detail for how the arm will articulat
 ### Josie Notes
 
 I've been told that we should each come up with a sub design (such as servo in thumb versus with the other ones with a long string, smaller design features like that),so the project itself is the same its more just individual solution and more specified design features.
+
+_DNK_
