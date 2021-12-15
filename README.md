@@ -13,6 +13,22 @@
 
 **Proof of Concept**: [ASLAN robot](https://www.hubs.com/blog/theres-not-enough-sign-language-translators-so-these-students-3d-printed-a-humanoid-robot/) made by Uni. of Antwerp students.
 
+Components of Antwerp:
+- 16 servos
+- 25 3D printed parts (139 hour print time)
+- 3 motor controllers
+- Arduino Due
+- 10 hour assembly time
+- Access to global database
+
+
+| Recreatable | Unrealistic |
+| ----------- | ----------- |
+|Arm is 3D printed|16 servos|
+|Roughly human size|Able to learn|
+|Multiple parts that assemble into the whole|Access to constantly updated local network of global signs|
+|Finger and arm joints move individually|Network connected users can send messages that the hand interprets|
+
 ### What We Don't Know
 
 - How to make a moveable finger joint.
@@ -94,7 +110,7 @@ _Thanks to [Sigma Lab Wiki](http://wiki.chssigma.com/index.php?title=Sigma_Lab_E
 - The base box will be made of acrylic, and have the weight of the arm on it. If any point has too much stress, the acrylic could break. This would cause sharp edges, so there's **danger of cuts**.
 - If the whole arm will be able to rotate, and the fingers/wrist move quick, then there will be a lot of fast movement. If parts are not secured properly, there could be a **risk of parts flying off and hurting someone**.
 - As the physical interaction with the arm would be minimal, the **risk for electrical shock is low**.
-**soldering**
+  **soldering**
 - We will need to solder various wires, which has the **risk of fire and burns** if the soldering iron is not used correctly.
 
 ### Images
@@ -125,6 +141,7 @@ Hi! I'm Henry, a class of 2024 student at Charlottesville High School. You can c
 
 (Henry needs to do this)
 Backup Plan: Expand on those ideas, but have them correlate more closely to the main project idea
+
 - Antwerp Version: Pros and cons of the advanced college one. What can we recreate? What's way to advanced and should be cut in order to simplify?
 - Beware the scope-drift
 - Expand on the list of challenges we have ("What We Don't Know" section); we know what we don't know, but what are some possible solutions
