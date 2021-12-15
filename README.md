@@ -14,13 +14,13 @@
 **Proof of Concept**: [ASLAN robot](https://www.hubs.com/blog/theres-not-enough-sign-language-translators-so-these-students-3d-printed-a-humanoid-robot/) made by Uni. of Antwerp students.
 
 Components of Antwerp:
+
 - 16 servos
 - 25 3D printed parts (139 hour print time)
 - 3 motor controllers
 - Arduino Due
 - 10 hour assembly time
 - Access to global database
-
 
 | Recreatable | Unrealistic |
 | ----------- | ----------- |
