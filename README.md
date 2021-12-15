@@ -26,8 +26,16 @@
 ### What We Need to Learn
 
 - How to take audio (of speech), and turn it into a string interpretable by a microcontroller.
+  - Speech-to-text (on raspberry pi?)
+  - Parse and turn text into individual letters.
+  - Turn the individual letters into commands for each part of the hand.
 - How a synthetic joint can be controlled by a servo motor.
+  - Finger joint(s)
+  - Wrist! It has multiple directions of movement irl!
 - How to use a raspberry pi (as a speech-to-text server) in coordination with an arduino (as a microcontroller).
+  - USB out on raspi (raspberry pi) to arduino?
+  - Pins on raspi to arduino?
+  - etc?
 
 ### Work Delegation
 
@@ -81,6 +89,12 @@ _Thanks to [Sigma Lab Wiki](http://wiki.chssigma.com/index.php?title=Sigma_Lab_E
 | Hand Servos  | To control the individual fingers on the hand.                                                                      |
 | Elastic      | To let the hand servos bend/extend the fingers on the hand.                                                         |
 
+### Safety
+
+- The base box will be made of acrylic, and have the weight of the arm on it. If any point has too much stress, the acrylic could break. This would cause sharp edges, so there's **danger of cuts**.
+- If the whole arm will be able to rotate, and the fingers/wrist move quick, then there will be a lot of fast movement. If parts are not secured properly, there could be a **risk of parts flying off and hurting someone**.
+- As the physical interaction with the arm would be minimal, the **risk for electrical shock is low**.
+
 ### Images
 
 A basic sketch for how the tension of the front of the arm may look...
@@ -114,10 +128,10 @@ Constraint: THIS IS BIG
 
 - Time: Not only the due date (feb 1st is the goal), but you need to break this project into more managable chunks, What will be done before xmas break?
 - Budget: Good material cost list, but what I need to know is "if we need to purchase materials beyond what the lab supplies, we are OK with spending up to $XX, each, if need be"
-- Safety: I know you're going to be safe, thats not the point of this. I need you to put in writing, your considerations of the possuble and expected risks associated with this project. Will there be soldering? could acrylic break? Can this hand hurt you? How many volts? How can this hurt you??
-- KNOWLEDGE: You have stated this elsewhere, but move it here and make it crystal clear: What do you need to learn, in order to be successful at thisn project?
+- Safety: I know you're going to be safe, thats not the point of this. I need you to put in writing, your considerations of the possible and expected risks associated with this project. Will there be soldering? Could acrylic break? Can this hand hurt you? How many volts? How can this hurt you??
+- KNOWLEDGE: You have stated this elsewhere, but move it here and make it crystal clear: What do you need to learn, in order to be successful at this project?
 
-### A shortlist of possible solutions your team considered.
+### A shortlist of possible solutions your team considered
 
 - Backup Plan: Expand on those ideas, but have them correlate more closely to the main project idea
 - Antwerp Version: Pros and cons of the advanced college one. What can we recreate? What's way to advanced and should be cut in order to simplify?
@@ -126,7 +140,7 @@ Constraint: THIS IS BIG
 
 #### The solution you picked, and why
 
-- How are we planning to actually solve the issues presentred (project modifications, smaller scale, etc)
+- How are we planning to actually solve the issues presented (project modifications, smaller scale, etc)
 - Why did we choose these solutiuons
 
 ### Design sketches/images captioned and very detailed
@@ -134,6 +148,6 @@ Constraint: THIS IS BIG
 (Josie is taking this)
 You did start this, but are lacking enough detail for how the arm will articulate, and how it will display each letter,
 
-###
+### Josie Notes
 
 I've been told that we should each come up with a sub design (such as servo in thumb versus with the other ones with a long string, smaller design features like that),so the project itself is the same its more just individual solution and more specified design features.
