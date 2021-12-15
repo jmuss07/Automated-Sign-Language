@@ -94,6 +94,8 @@ _Thanks to [Sigma Lab Wiki](http://wiki.chssigma.com/index.php?title=Sigma_Lab_E
 - The base box will be made of acrylic, and have the weight of the arm on it. If any point has too much stress, the acrylic could break. This would cause sharp edges, so there's **danger of cuts**.
 - If the whole arm will be able to rotate, and the fingers/wrist move quick, then there will be a lot of fast movement. If parts are not secured properly, there could be a **risk of parts flying off and hurting someone**.
 - As the physical interaction with the arm would be minimal, the **risk for electrical shock is low**.
+**soldering**
+- We will need to solder various wires, which has the **risk of fire and burns** if the soldering iron is not used correctly.
 
 ### Images
 
@@ -122,18 +124,7 @@ Hi! I'm Henry, a class of 2024 student at Charlottesville High School. You can c
 ### Your project's criteria and constraints
 
 (Henry needs to do this)
-Criteria: Specific goals, including what each part will do, and the basic needs (power led, switch, batteries, etc)
-
-Constraint: THIS IS BIG
-
-- Time: Not only the due date (feb 1st is the goal), but you need to break this project into more managable chunks, What will be done before xmas break?
-- Budget: Good material cost list, but what I need to know is "if we need to purchase materials beyond what the lab supplies, we are OK with spending up to $XX, each, if need be"
-- Safety: I know you're going to be safe, thats not the point of this. I need you to put in writing, your considerations of the possible and expected risks associated with this project. Will there be soldering? Could acrylic break? Can this hand hurt you? How many volts? How can this hurt you??
-- KNOWLEDGE: You have stated this elsewhere, but move it here and make it crystal clear: What do you need to learn, in order to be successful at this project?
-
-### A shortlist of possible solutions your team considered
-
-- Backup Plan: Expand on those ideas, but have them correlate more closely to the main project idea
+Backup Plan: Expand on those ideas, but have them correlate more closely to the main project idea
 - Antwerp Version: Pros and cons of the advanced college one. What can we recreate? What's way to advanced and should be cut in order to simplify?
 - Beware the scope-drift
 - Expand on the list of challenges we have ("What We Don't Know" section); we know what we don't know, but what are some possible solutions
