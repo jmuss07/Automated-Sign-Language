@@ -73,7 +73,7 @@ _Note: These numbers and divisions are pretty arbitrary._
 | Raspberry Pi                | $35.00                 | 1                         | $35.00     |
 |                             |                        | **Final Estimated Cost**: | $172.39    |
 
-Yes, this estimated cost is rather high. However, a lot of these materials are readily available already in the Sigma Lab, and can be re-used for future projects. If need be, $40 is available to purchase extra materials.
+Yes, this estimated cost is rather high. However, a lot of these materials are readily available already in the Sigma Lab, and can be re-used for future projects. If need be, $75 is available to purchase extra materials.
 
 _Thanks to [Sigma Lab Wiki](http://wiki.chssigma.com/index.php?title=Sigma_Lab_Equipment_Costs) for the numbers._
 
