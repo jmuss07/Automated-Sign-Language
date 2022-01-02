@@ -1,0 +1,19 @@
+import time
+from ASL_functions import asl_dict
+
+cont = False
+while not cont:
+    phrase = input("\nPlease enter a phrase, or press Q to quit: ").lower()
+    if phrase == "q":
+        cont = True
+    else:
+        confirm = input(f"\nIs '{phrase}' correct? (Y/N)\t")
+        if confirm.lower() == "y":
+            print()
+            for i in phrase:
+                print(i)
+                if i not in asl_dict:
+                    print(f"Sorry, I don't know how to sign {i}")
+                else:
+                    asl_dict[i]()
+                    time.sleep(.5)
