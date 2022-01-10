@@ -12,7 +12,9 @@ while not cont:
             print()
             for i in phrase:
                 print(i)
-                if i not in asl_dict:
+                if i == " ":
+                    print("Placeholder for a 'space'.")
+                elif i not in asl_dict:
                     print(f"Sorry, I don't know how to sign {i}")
                 else:
                     asl_dict[i]()
