@@ -3,8 +3,8 @@ from ASL_functions import asl_dict
 
 cont = False
 while not cont:
-    phrase = input("\nPlease enter a phrase, or press Q to quit: ").lower()
-    if phrase == "q":
+    phrase = input("\nPlease enter a phrase, or type -q to quit: ").lower()
+    if phrase == "-q":
         cont = True
     else:
         confirm = input(f"\nIs '{phrase}' correct? (Y/N)\t")
@@ -12,7 +12,9 @@ while not cont:
             print()
             for i in phrase:
                 print(i)
-                if i not in asl_dict:
+                if i == " ":
+                    print("Placeholder for a 'space'.\n")
+                elif i not in asl_dict:
                     print(f"Sorry, I don't know how to sign {i}")
                 else:
                     asl_dict[i]()
