@@ -107,7 +107,6 @@ def sign_8():
 def sign_9():
     print("Placeholder to sign the letter '9'.")
 
-
 asl_dict = {
     "a":sign_a,
     "b":sign_b,

@@ -1,2 +1,6 @@
 *.pyc
 __pycache__/*
+.vscode
+.vscode/*
+.vscode/settings.json
+.markdownlint.json
