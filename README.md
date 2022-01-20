@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [Goals and Planning](#Goals-and-Planning)
+- [Research](#Research)
 - [About Us](#About-Us)
 
 ## Goals and Planning
@@ -22,12 +23,12 @@ Components of Antwerp:
 - 10 hour assembly time
 - Access to global database
 
-| Recreatable | Unrealistic |
-| ----------- | ----------- |
-|Arm is 3D printed|16 servos|
-|Roughly human size|Able to learn|
-|Multiple parts that assemble into the whole|Access to constantly updated local network of global signs|
-|Finger and arm joints move individually|Network connected users can send messages that the hand interprets|
+| Recreatable                                 | Unrealistic                                                        |
+| ------------------------------------------- | ------------------------------------------------------------------ |
+| Arm is 3D printed                           | 16 servos                                                          |
+| Roughly human size                          | Able to learn                                                      |
+| Multiple parts that assemble into the whole | Access to constantly updated local network of global signs         |
+| Finger and arm joints move individually     | Network connected users can send messages that the hand interprets |
 
 ### What We Don't Know
 
@@ -125,6 +126,10 @@ A basic sketch for how the tension of the front of the arm may look...
 
 _Credit to [Benton House](https://github.com/jhouse53) for the arm._
 
+## Research
+
+[Open Bionics Lab](https://openbionicslabs.com/downloads)
+
 ## About Us
 
 ### **Josie Muss**
@@ -134,28 +139,3 @@ Hey there! I'm Josie, and I'm a member of Charlottesville High School's class of
 ### **Henry Heisig**
 
 Hi! I'm Henry, a class of 2024 student at Charlottesville High School. You can contact me at [hheisig51@charlottesvilleschools.org](mailto:hheisig51@charlottesvilleschools.org) or [henrycheisig+github@gmail.com](mailto:henrycheisig+github@gmail.com), or find my work on [Github](https://github.com/hheisig51)
-
-## What Mr H needs from us
-
-### Your project's criteria and constraints
-
-(Henry needs to do this)
-Backup Plan: Expand on those ideas, but have them correlate more closely to the main project idea
-
-- Antwerp Version: Pros and cons of the advanced college one. What can we recreate? What's way to advanced and should be cut in order to simplify?
-- Beware the scope-drift
-- Expand on the list of challenges we have ("What We Don't Know" section); we know what we don't know, but what are some possible solutions
-
-#### The solution you picked, and why
-
-- How are we planning to actually solve the issues presented (project modifications, smaller scale, etc)
-- Why did we choose these solutions
-
-### Design sketches/images captioned and very detailed
-
-(Josie is taking this)
-You did start this, but are lacking enough detail for how the arm will articulate, and how it will display each letter,
-
-### Josie Notes
-
-I've been told that we should each come up with a sub design (such as servo in thumb versus with the other ones with a long string, smaller design features like that),so the project itself is the same its more just individual solution and more specified design features.
