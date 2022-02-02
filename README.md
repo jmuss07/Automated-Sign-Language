@@ -8,6 +8,8 @@
 
 ## Goals and Planning
 
+Phase 1
+
 **Description**: A robotic, anthropomorphic hand that can display the ASL alphabet and basic one-handed gestures.
 
 **Test of Success**: Through the hand, using the ASL alphabet, a word can be transmitted, received, and interpreted in under two minutes.
@@ -76,19 +78,19 @@ _Note: These numbers and divisions are pretty arbitrary._
 
 ### Estimated Cost
 
-| Item                        | Cost per Item          | Quantity                  | Total Cost |
-| --------------------------- | ---------------------- | ------------------------- | ---------- |
-| Servo                       | $5.95                  | 8                         | $47.60     |
-| 3D Printer Model Material   | $2.43 / in<sup>3</sup> | 8 in<sup>3</sup>          | $19.44     |
-| 3D Printer Support Material | $4.76 / in<sup>3</sup> | 1.5 in<sup>3</sup>        | $7.14      |
-| 1/8" Acrylic Sheet          | $2.65 / ft<sup>2</sup> | 9.5 ft<sup>2</sup>        | $25.18     |
-| Wire                        | $0.08 / ft             | 6 ft                      | $0.48      |
-| Panel-mount SPDT Switch     | $0.95                  | 1                         | $0.95      |
-| LED (Green or Red)          | $0.16                  | 1                         | $0.16      |
-| Arduino Uno/Metro           | $24.95                 | 1                         | $24.95     |
-| Arduino Prototyping Shield  | $11.49                 | 1                         | $11.49     |
-| Raspberry Pi                | $35.00                 | 1                         | $35.00     |
-|                             |                        | **Final Estimated Cost**: | $172.39    |
+| Item                        | Cost per Item | Quantity                  | Total Cost |
+| --------------------------- | ------------- | ------------------------- | ---------- |
+| Servo                       | $5.95         | 8                         | $47.60     |
+| 3D Printer Model Material   | $2.43 / in³   | 8 in³                     | $19.44     |
+| 3D Printer Support Material | $4.76 / in³   | 1.5 in³                   | $7.14      |
+| 1/8" Acrylic Sheet          | $2.65 / ft²   | 9.5 ft²                   | $25.18     |
+| Wire                        | $0.08 / ft    | 6 ft                      | $0.48      |
+| Panel-mount SPDT Switch     | $0.95         | 1                         | $0.95      |
+| LED (Green or Red)          | $0.16         | 1                         | $0.16      |
+| Arduino Uno/Metro           | $24.95        | 1                         | $24.95     |
+| Arduino Prototyping Shield  | $11.49        | 1                         | $11.49     |
+| Raspberry Pi                | $35.00        | 1                         | $35.00     |
+|                             |               | **Final Estimated Cost**: | $172.39    |
 
 Yes, this estimated cost is rather high. However, a lot of these materials are readily available already in the Sigma Lab, and can be re-used for future projects. If need be, $75 is available to purchase extra materials.
 
@@ -128,7 +130,13 @@ _Credit to [Benton House](https://github.com/jhouse53) for the arm._
 
 ## Research
 
+Phase 2
+
 [Open Bionics Lab](https://openbionicslabs.com/downloads)
+
+The OpenBionics Lab's ADA v1.1 hand has designs for exactly what we're doing. But, it's designed for different servos, and a custom PCB. If we use anything from it, adaptations need to be made.
+
+Below, is documentation of a single makeshift finger. Designed with minimal 3D printing, so manufacturing time is low. Overall, the only 3D-printed parts are the dowels, which take all of 10 minutes.
 
 ## About Us
 
