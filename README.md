@@ -2,13 +2,14 @@
 
 ## Table of Contents
 
-- [Goals and Planning](#Goals-and-Planning)
-- [Research](#Research)
+- [Phase 1](#Phase-1)
+- [Phase 2](#Phase-2)
+- [Phase 3](#Phase-3)
 - [About Us](#About-Us)
 
-## Goals and Planning
+## Phase 1
 
-Phase 1
+Goals, Planning, etc.
 
 **Description**: A robotic, anthropomorphic hand that can display the ASL alphabet and basic one-handed gestures.
 
@@ -128,19 +129,23 @@ A basic sketch for how the tension of the front of the arm may look...
 
 _Credit to [Benton House](https://github.com/jhouse53) for the arm._
 
-## Research
+## Phase 2
 
-Phase 2
-
-[Open Bionics Lab](https://openbionicslabs.com/downloads)
+Milestone work (From research, to final work)
 
 The OpenBionics Lab's ADA v1.1 hand has designs for exactly what we're doing. But, it's designed for different servos, and a custom PCB. If we use anything from it, adaptations need to be made.
+
+[Open Bionics Lab](https://openbionicslabs.com/downloads)
 
 Below, is documentation of a single makeshift finger. Designed with minimal 3D printing, so manufacturing time is low. Overall, the only 3D-printed parts are the dowels, which take all of 10 minutes.
 
 [Finger video](https://user-images.githubusercontent.com/71345201/153231533-de0a4b17-7be9-4af8-98d6-29e429159a4c.mp4)
 
 [Box video](https://user-images.githubusercontent.com/71345201/153231564-8eb38302-19f0-4cc2-9da3-be119849be5e.mp4)
+
+## Phase 3
+
+Final work
 
 ## About Us
 
