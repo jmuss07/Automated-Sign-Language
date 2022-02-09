@@ -138,10 +138,9 @@ The OpenBionics Lab's ADA v1.1 hand has designs for exactly what we're doing. Bu
 
 Below, is documentation of a single makeshift finger. Designed with minimal 3D printing, so manufacturing time is low. Overall, the only 3D-printed parts are the dowels, which take all of 10 minutes.
 
+[Finger video](https://user-images.githubusercontent.com/71345201/153231533-de0a4b17-7be9-4af8-98d6-29e429159a4c.mp4)
 
-https://user-images.githubusercontent.com/71345201/153231533-de0a4b17-7be9-4af8-98d6-29e429159a4c.mp4
-
-https://user-images.githubusercontent.com/71345201/153231564-8eb38302-19f0-4cc2-9da3-be119849be5e.mp4
+[Box video](https://user-images.githubusercontent.com/71345201/153231564-8eb38302-19f0-4cc2-9da3-be119849be5e.mp4)
 
 ## About Us
 
