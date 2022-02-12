@@ -121,11 +121,11 @@ _Thanks to [Sigma Lab Wiki](http://wiki.chssigma.com/index.php?title=Sigma_Lab_E
 
 A basic sketch for how the tension of the front of the arm may look...
 
-![FrontOfArm](https://github.com/jmuss07/Automated-Sign-Language/blob/dec5cf5b68dd28cdcd7ed98c64007a657ec023e3/Images/Planning/FrontOfArm.png?raw=true)
+![FrontOfArm](Images/FrontOfArm.png)
 
 ...And a similar sketch for the back of the arm!
 
-![BackOfArm](https://github.com/jmuss07/Automated-Sign-Language/blob/5fbd7c9bcdf45daa6b4d2411afcacc0b252cb9f5/Images/Planning/BackOfArm.png?raw=true)
+![BackOfArm](Images/BackOfArm.png)
 
 _Credit to [Benton House](https://github.com/jhouse53) for the arm._
 
@@ -135,7 +135,7 @@ Milestone work (From research, to final work)
 
 The OpenBionics Lab's ADA v1.1 hand has designs for exactly what we're doing. But, it's designed for different servos, and a custom PCB. If we use anything from it, adaptations need to be made.
 
-[ADA v1.1 Datasheet](http://placekitten.com/200/300)
+[ADA v1.1 Datasheet](Images/Ada_v1_1_Datasheet.pdf)
 
 [Open Bionics Lab](https://openbionicslabs.com/downloads)
 
