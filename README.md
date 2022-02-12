@@ -135,6 +135,8 @@ Milestone work (From research, to final work)
 
 The OpenBionics Lab's ADA v1.1 hand has designs for exactly what we're doing. But, it's designed for different servos, and a custom PCB. If we use anything from it, adaptations need to be made.
 
+[ADA v1.1 Datasheet](http://placekitten.com/200/300)
+
 [Open Bionics Lab](https://openbionicslabs.com/downloads)
 
 Below, is documentation of a single makeshift finger. Designed with minimal 3D printing, so manufacturing time is low. Overall, the only 3D-printed parts are the dowels, which take all of 10 minutes.
@@ -143,7 +145,9 @@ Below, is documentation of a single makeshift finger. Designed with minimal 3D p
 
 [Box video](https://user-images.githubusercontent.com/71345201/153231564-8eb38302-19f0-4cc2-9da3-be119849be5e.mp4)
 
-Now, it's time to move onto the design of the final hand. The ADA v1.1 hand is made of a lot of 
+Now, it's time to move onto the design of the final hand. The ADA v1.1 hand is made of a lot of Ninjaflex, too much for our project's budget. The final phase 2 goal is to cut this down.
+
+_PLACEHOLDER_ DESCRIBE HOW NINJAFLEX IN HAND WILL BE CUT DOWN
 
 ## Phase 3
 
