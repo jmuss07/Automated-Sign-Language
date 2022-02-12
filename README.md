@@ -143,6 +143,8 @@ Below, is documentation of a single makeshift finger. Designed with minimal 3D p
 
 [Box video](https://user-images.githubusercontent.com/71345201/153231564-8eb38302-19f0-4cc2-9da3-be119849be5e.mp4)
 
+Now, it's time to move onto the design of the final hand. The ADA v1.1 hand is made of a lot of 
+
 ## Phase 3
 
 Final work
@@ -151,8 +153,8 @@ Final work
 
 ### **Josie Muss**
 
-Hey there! I'm Josie, and I'm a member of Charlottesville High School's class of 2023! You can find more of my projects on my [Github](https://github.com/jmuss07). Any questions for me on either this project or any of others that I've worked on can be sent to me at [jmuss07@charlottesvilleschools.org](mailto:jmuss07@charlottesvilleschools.org)
+Hey there! I'm Josie, and I'm a member of Charlottesville High School's class of 2023! You can find more of my projects on my [Github](https://github.com/jmuss07). Any questions for me on either this project or any of others that I've worked on can be sent to me at [jmuss07@charlottesvilleschools.org](mailto:jmuss07@charlottesvilleschools.org).
 
 ### **Henry Heisig**
 
-Hi! I'm Henry, a class of 2024 student at Charlottesville High School. You can contact me at [hheisig51@charlottesvilleschools.org](mailto:hheisig51@charlottesvilleschools.org) or [henrycheisig+github@gmail.com](mailto:henrycheisig+github@gmail.com), or find my work on [Github](https://github.com/hheisig51)
+Hi! I'm Henry, a class of 2024 student at Charlottesville High School. You can contact me at [hheisig51@charlottesvilleschools.org](mailto:hheisig51@charlottesvilleschools.org) or [henry+github@eheisig.com](mailto:henry+github@eheisig.com), or find my work on [Github](https://github.com/hheisig51).
