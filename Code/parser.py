@@ -1,5 +1,5 @@
 import time
-from ASL_functions import asl_dict
+from ASL_functions import asl_dict, neutral
 
 cont = False
 while not cont:
@@ -17,3 +17,4 @@ while not cont:
                 else:
                     asl_dict[i]()
                     time.sleep(.5)
+            neutral()
