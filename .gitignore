@@ -5,3 +5,4 @@ __pycache__/*
 .markdownlint.json
 .DS_Store
 LoveSector.code-workspace
+HBFS.code-workspace
