@@ -153,7 +153,9 @@ Now, it's time to move onto the design of the final hand. The ADA v1.1 hand is m
 
 So, it seems that the files provided by Open Bionics Labs were meshes, which Onshape does not support the editing of. The next best option is to either print the entire hand as-is, or re-design the fingers. The re-design would use the original .stl files as reference.
 
-_PLACEHOLDER_ 2022-02-25_MESHISSUES
+![MeshIssues YouTube video](Placeholder)
+
+![MeshIssues MP4](Placeholder)
 
 ## Phase 3
 
