@@ -147,11 +147,19 @@ Below, is documentation of a single makeshift finger. Designed with minimal 3D p
 
 Now, it's time to move onto the design of the final hand. The ADA v1.1 hand is made of a lot of Ninjaflex, too much for our project's budget. The final phase 2 goal is to cut this down.
 
-_PLACEHOLDER_ DESCRIBE HOW NINJAFLEX IN HAND WILL BE CUT DOWN
+[NinjaflexHand YouTube video](https://www.youtube.com/watch?v=xeEx802iHNs)
+
+[NinjaflexHand MP4](Videos\2022-02-14_NinjaflexHand-mp4.mp4)
+
+So, it seems that the files provided by Open Bionics Labs were meshes, which Onshape does not support the editing of. The next best option is to either print the entire hand as-is, or re-design the fingers. The re-design would use the original .stl files as reference.
+
+[MeshIssues YouTube video](https://www.youtube.com/watch?v=FYziZeaYQL8)
+
+[MeshIssues MP4](Videos\2022-02-25_MeshIssues-mp4.mp4)
 
 ## Phase 3
 
-Final work
+Phase 3 is the combination and culmination of our work on the hand, string interpretation, and multi-servo control. As of now, this will not be achieved by the February 25th deadline. February 25th 2022, which at the time of writing, is today.
 
 ## About Us
 
