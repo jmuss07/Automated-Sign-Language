@@ -3,6 +3,7 @@ from ASL_functions import asl_dict, neutral
 
 cont = False
 while not cont:
+    neutral()
     phrase = input("\nPlease enter a phrase, or type -q to quit: ").lower()
     if phrase == "-q":
         cont = True
@@ -16,5 +17,6 @@ while not cont:
                     print(f"Sorry, I don't know how to sign {i}")
                 else:
                     asl_dict[i]()
-                    time.sleep(.5)
+                    time.sleep(1)
             neutral()
+
