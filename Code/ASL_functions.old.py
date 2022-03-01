@@ -1,5 +1,4 @@
 import board
-import time
 import neopixel
 import pwmio
 import servo
@@ -29,21 +28,30 @@ pwm4 = pwmio.PWMOut(board.D6, duty_cycle=2**15, frequency=200)
 pwm5 = pwmio.PWMOut(board.D7, duty_cycle=2**15, frequency=200)
 
 thumb = servo.Servo(pwm1)
-pointer_finger = servo.Servo(pwm2)
-middle_finger = servo.Servo(pwm3)
-ring_finger = servo.Servo(pwm4)
+pointer = servo.Servo(pwm2)
+middle = servo.Servo(pwm3)
+ring = servo.Servo(pwm4)
 pinky = servo.Servo(pwm5)
 
 def neutral():
-    full_up(pointer_finger)
-    full_up(middle_finger)
+    full_up(thumb)
+    full_up(pointer)
+    full_up(middle)
+    full_up(ring)
+    full_up(pinky)
 
 def sign_a():
-    full_down(pointer_finger)
+    full_up(thumb)
+    full_down(pointer)
+    full_down(middle)
+    full_down(ring)
+    full_down(pinky)
 
 def sign_b():
-    print("Placeholder to sign the letter 'B'.")
-
+    full_up(pointer)
+    full_up(middle)
+    full_up(ring)
+    full_up(pinky)
 
 def sign_c():
     print("Placeholder to sign the letter 'C'.")
