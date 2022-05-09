@@ -161,6 +161,10 @@ So, it seems that the files provided by Open Bionics Labs were meshes, which Ons
 
 Phase 3 is the combination and culmination of our work on the hand, string interpretation, and multi-servo control. As of now, this will not be achieved by the February 25th deadline. February 25th 2022, which at the time of writing, is today.
 
+That was written over 2 months ago. Now, work starts again. At the moment, we have the fingers printed! Turns out, the Blender files (included with the ADA v1.1 download) were editable. This means a much higher chance of completing this project.
+
+![Printed Fingers](/Images/PrintedFingers.png)
+
 ## About Us
 
 ### **Josie Muss**
