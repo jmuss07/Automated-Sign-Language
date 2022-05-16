@@ -1,4 +1,4 @@
-# Automated Sign Language
+# Automated Sign Language!
 
 ## Table of Contents
 
