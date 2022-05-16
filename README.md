@@ -165,6 +165,8 @@ That was written over 2 months ago. Now, work starts again. At the moment, we ha
 
 ![Printed Fingers](/Images/PrintedFingers.png)
 
+_Update 2022-05-13_: I (Henry) am currently trying to design a frame for the hand, to replace what we cut off of the model in Blender. 
+
 ## About Us
 
 ### **Josie Muss**
