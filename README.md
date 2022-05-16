@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-- [Phase 1](#Phase-1)
-- [Phase 2](#Phase-2)
-- [Phase 3](#Phase-3)
-- [About Us](#About-Us)
+- [Phase 1](#phase-1)
+- [Phase 2](#phase-2)
+- [Phase 3](#phase-3)
+- [About Us](#about-us)
 
 ## Phase 1
 
