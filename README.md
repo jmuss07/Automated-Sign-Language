@@ -1,3 +1,7 @@
+---
+title: Oh so swell, ASL!
+---
+
 # Automated Sign Language
 
 ## Table of Contents
