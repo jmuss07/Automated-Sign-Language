@@ -12,14 +12,14 @@ def full_down(servoToActuate):
     servoToActuate.angle = 180
 def half_fold(servoToActuate):
     servoToActuate.angle = 90
-def full_palm():
-    print("placeholder")
-def half_palm():
-    print("placeholder")
-def pointed_out():
-    print("placeholder")
-def half_out():
-    print("placeholder")
+def full_palm(servoToActuate):
+    servoToActuate.angle = 180
+def half_palm(servoToActuate):
+    servoToActuate.angle = 90
+def pointed_out(servoToActuate):
+    servoToActuate.angle = 0
+def half_out(servoToActuate):
+    servoToActuate.angle = 45
 
 pwm1 = pwmio.PWMOut(board.D3, duty_cycle=2**15, frequency=200)
 pwm2 = pwmio.PWMOut(board.D4, duty_cycle=2**15, frequency=200)
@@ -46,147 +46,287 @@ def sign_a():
     full_down(middle)
     full_down(ring)
     full_down(pinky)
+    print("A")
 
 def sign_b():
+    full_palm(thumb)
     full_up(pointer)
     full_up(middle)
     full_up(ring)
     full_up(pinky)
+    print("B")
 
 def sign_c():
-    print("Placeholder to sign the letter 'C'.")
-
+    half_out(thumb)
+    half_fold(pointer)
+    half_fold(middle)
+    half_fold(ring)
+    half_fold(pinky)
+    print("C")
 
 def sign_d():
-    print("Placeholder to sign the letter 'D'.")
-
+    full_palm(thumb)
+    full_up(pointer)
+    full_down(middle)
+    full_down(ring)
+    full_down(pinky)
+    print("D")
 
 def sign_e():
-    print("Placeholder to sign the letter 'E'.")
-
+    full_palm(thumb)
+    half_fold(pointer)
+    half_fold(middle)
+    half_fold(ring)
+    half_fold(pinky)
+    print("E")
 
 def sign_f():
-    print("Placeholder to sign the letter 'F'.")
-
+    half_fold(thumb)
+    half_fold(pointer)
+    full_up(middle)
+    full_up(ring)
+    full_up(pinky)
+    print("F")
 
 def sign_g():
-    print("Placeholder to sign the letter 'G'.")
-
+    full_up(thumb)
+    full_up(pointer)
+    full_down(middle)
+    full_down(ring)
+    full_down(pinky)
+    print("G")
 
 def sign_h():
-    print("Placeholder to sign the letter 'H'.")
-
+    full_up(thumb)
+    full_up(pointer)
+    full_up(middle)
+    full_down(ring)
+    full_down(pinky)
+    print("H")
 
 def sign_i():
-    print("Placeholder to sign the letter 'I'.")
-
+    half_fold(thumb)
+    full_down(pointer)
+    full_down(middle)
+    full_down(ring)
+    full_up(pinky)
+    print("I")
 
 def sign_j():
-    print("Placeholder to sign the letter 'J'.")
-
+    half_fold(thumb)
+    full_down(pointer)
+    full_down(middle)
+    full_down(ring)
+    full_up(pinky)
+    print("J")
 
 def sign_k():
-    print("Placeholder to sign the letter 'K'.")
-
+    full_up(thumb)
+    full_up(pointer)
+    full_up(middle)
+    full_down(ring)
+    full_down(pinky)
+    print("K")
 
 def sign_l():
-    print("Placeholder to sign the letter 'L'.")
-
+    pointed_out(thumb)
+    full_up(pointer)
+    full_down(middle)
+    full_down(ring)
+    full_down(pinky)
+    print("L")
 
 def sign_m():
-    print("Placeholder to sign the letter 'M'.")
-
+    full_palm(thumb)
+    half_fold(pointer)
+    half_fold(middle)
+    half_fold(ring)
+    full_down(pinky)
+    print("M")
 
 def sign_n():
-    print("Placeholder to sign the letter 'N'.")
-
+    full_palm(thumb)
+    half_fold(pointer)
+    half_fold(middle)
+    full_down(ring)
+    full_down(pinky)
+    print("N")
 
 def sign_o():
-    print("Placeholder to sign the letter 'O'.")
-
+    half_fold(thumb)
+    half_fold(pointer)
+    half_fold(middle)
+    half_fold(ring)
+    half_fold(pinky)
+    print("O")
 
 def sign_p():
-    print("Placeholder to sign the letter 'P'.")
-
+    full_up(thumb)
+    full_up(pointer)
+    half_fold(middle)
+    full_down(ring)
+    full_down(pinky)
+    print("P")
 
 def sign_q():
-    print("Placeholder to sign the letter 'Q'.")
-
+    full_up(thumb)
+    full_up(pointer)
+    full_down(middle)
+    full_down(ring)
+    full_down(pinky)
+    print("Q")
 
 def sign_r():
-    print("Placeholder to sign the letter 'R'.")
-
+    half_palm(thumb)
+    full_up(pointer)
+    full_up(middle)
+    full_down(ring)
+    full_down(pinky)
+    print("R")
 
 def sign_s():
-    print("Placeholder to sign the letter 'S'.")
-
+    half_palm(thumb)
+    full_down(pointer)
+    full_down(middle)
+    full_down(ring)
+    full_down(pinky)
+    print("S")
 
 def sign_t():
-    print("Placeholder to sign the letter 'T'.")
-
+    full_up(thumb)
+    half_fold(pointer)
+    full_down(middle)
+    full_down(ring)
+    full_down(pinky)
+    print("T")
 
 def sign_u():
-    print("Placeholder to sign the letter 'U'.")
-
+    half_palm(thumb)
+    full_up(pointer)
+    full_up(middle)
+    full_down(ring)
+    full_down(pinky)
+    print("U")
 
 def sign_v():
-    print("Placeholder to sign the letter 'V'.")
-
+    half_palm(thumb)
+    full_up(pointer)
+    full_up(middle)
+    half_fold(ring)
+    full_down(pinky)
+    print("V")
 
 def sign_w():
-    print("Placeholder to sign the letter 'W'.")
-
+    half_palm(thumb)
+    full_up(pointer)
+    full_up(middle)
+    full_up(ring)
+    full_down(pinky)
+    print("W")
 
 def sign_x():
-    print("Placeholder to sign the letter 'X'.")
-
+    full_palm(thumb)
+    half_fold(pointer)
+    full_down(middle)
+    full_down(ring)
+    full_down(pinky)
+    print("X")
 
 def sign_y():
-    print("Placeholder to sign the letter 'Y'.")
-
+    pointed_out(thumb)
+    full_down(pointer)
+    full_down(middle)
+    full_down(ring)
+    full_up(pinky)
+    print("Y")
 
 def sign_z():
-    print("Placeholder to sign the letter 'Z'.")
-
+    full_palm(thumb)
+    full_up(pointer)
+    full_down(middle)
+    full_down(ring)
+    full_down(pinky)
+    print("Z")
 
 def sign_0():
-    print("Placeholder to sign the letter '0'.")
-
+    half_out(thumb)
+    half_fold(pointer)
+    half_fold(middle)
+    half_fold(ring)
+    half_fold(pinky)
+    print("0")
 
 def sign_1():
-    print("Placeholder to sign the letter '1'.")
-
+    pointed_out(thumb)
+    full_down(pointer)
+    full_down(middle)
+    full_down(ring)
+    full_down(pinky)
+    print("1")
 
 def sign_2():
-    print("Placeholder to sign the letter '2'.")
-
+    full_palm(thumb)
+    full_up(pointer)
+    full_up(middle)
+    full_down(ring)
+    full_down(pinky)
+    print("2")
 
 def sign_3():
-    print("Placeholder to sign the letter '3'.")
-
+    pointed_out(thumb)
+    full_up(pointer)
+    full_up(middle)
+    full_down(ring)
+    full_down(pinky)
+    print("3")
 
 def sign_4():
-    print("Placeholder to sign the letter '4'.")
-
+    full_palm(thumb)
+    full_up(pointer)
+    full_up(middle)
+    full_up(ring)
+    full_up(pinky)
+    print("4")
 
 def sign_5():
-    print("Placeholder to sign the letter '5'.")
-
+    pointed_out(thumb)
+    full_up(pointer)
+    full_up(middle)
+    full_up(ring)
+    full_up(pinky)
+    print("5")
 
 def sign_6():
-    print("Placeholder to sign the letter '6'.")
-
+    full_palm(thumb)
+    full_up(pointer)
+    full_up(middle)
+    full_up(ring)
+    full_down(pinky)
+    print("6")
 
 def sign_7():
-    print("Placeholder to sign the letter '7'.")
-
+    full_palm(thumb)
+    full_up(pointer)
+    full_up(middle)
+    half_fold(ring)
+    full_up(pinky)
+    print("7")
 
 def sign_8():
-    print("Placeholder to sign the letter '8'.")
-
+    full_palm(thumb)
+    full_up(pointer)
+    half_fold(middle)
+    full_up(ring)
+    full_up(pinky)
+    print("8")
 
 def sign_9():
-    print("Placeholder to sign the letter '9'.")
+    half_fold(thumb)
+    half_fold(pointer)
+    full_up(middle)
+    full_up(ring)
+    full_up(pinky)
+    print("9")
 
 
 asl_dict = {
