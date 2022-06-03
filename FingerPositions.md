@@ -1,22 +1,20 @@
-# Observation
-
-## Finger Positions
+# Finger Positions
 
 ![ASL_Chart](https://github.com/jmuss07/Automated-Sign-Language/blob/29e54383c229b77c35f2ddbddc25b1c4af1a30ff/Images/Planning/ASL_Chart.png?raw=true)
 
-### d = 100% down
+## d = 100% down
 
-### u = 100% up
+## u = 100% up
 
-### hf = half folded
+## hf = half folded
 
-### p = 100% folded into palm
+## p = 100% folded into palm
 
-### hp = half folded into palm
+## hp = half folded into palm
 
-### o = pointed out
+## o = pointed out
 
-### ho = halfway out
+## ho = halfway out
 
 | Sign | Thumb | Pointer | Middle | Ring | Pinky | Additional Notes                                                               |
 | ---- | ----- | ------- | ------ | ---- | ----- | ------------------------------------------------------------------------------ |
