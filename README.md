@@ -141,9 +141,17 @@ The OpenBionics Lab's ADA v1.1 hand has designs for exactly what we're doing. Bu
 
 Below, is documentation of a single makeshift finger. Designed with minimal 3D printing, so manufacturing time is low. Overall, the only 3D-printed parts are the dowels, which take all of 10 minutes.
 
-[Finger video](https://user-images.githubusercontent.com/71345201/153231533-de0a4b17-7be9-4af8-98d6-29e429159a4c.mp4)
+<video width="320" height="240" controls>
+  <source src="Videos\2022-02-09_Box-mp4.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-[Box video](https://user-images.githubusercontent.com/71345201/153231564-8eb38302-19f0-4cc2-9da3-be119849be5e.mp4)
+
+<video width="320" height="240" controls>
+  <source src="Videos\2022-02-09_Finger-mp4.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 Now, it's time to move onto the design of the final hand. The ADA v1.1 hand is made of a lot of Ninjaflex, too much for our project's budget. The final phase 2 goal is to cut this down.
 
@@ -154,9 +162,10 @@ Now, it's time to move onto the design of the final hand. The ADA v1.1 hand is m
 
 So, it seems that the files provided by Open Bionics Labs were meshes, which Onshape does not support the editing of. The next best option is to either print the entire hand as-is, or re-design the fingers. The re-design would use the original .stl files as reference.
 
-[MeshIssues YouTube video](https://www.youtube.com/watch?v=FYziZeaYQL8)
-
-[MeshIssues MP4](Videos\2022-02-25_MeshIssues-mp4.mp4)
+<video width="320" height="240" controls>
+  <source src="Videos\2022-02-25_MeshIssues-mp4.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Phase 3
 
