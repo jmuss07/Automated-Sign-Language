@@ -168,6 +168,8 @@ That was written over 2 months ago. Now, work starts again. At the moment, we ha
 
 _Update 2022-05-13_: I (Henry) am currently trying to design a frame for the hand, to replace what we cut off of the model in Blender.
 
+_2022-06-03_: It's been a minute, or two, or almost a month since the last update. It's been rough.
+
 ## About Us
 
 ### **Josie Muss**
