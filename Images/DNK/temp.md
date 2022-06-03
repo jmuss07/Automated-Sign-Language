@@ -1,3 +1,6 @@
+---
+nav_exclude: true
+---
 # DNK
 
 ![IMG_20211215_094508](https://user-images.githubusercontent.com/56935262/146208801-35b4f01e-27cd-4b8f-af3c-ea9aa8b6eb61.jpg)
@@ -13,7 +16,3 @@
 ![IMG_20211215_094522](https://user-images.githubusercontent.com/56935262/146208823-427fe7a7-23e7-43ef-84cb-56351be6e435.jpg)
 ![IMG_20211215_094523](https://user-images.githubusercontent.com/56935262/146208824-50549f42-44f4-42e5-a404-fd822375aa00.jpg)
 ![IMG_20211215_094524](https://user-images.githubusercontent.com/56935262/146208827-0b644775-f128-4a9e-b9c9-938c960a7c11.jpg)
-
----
-nav_exclude: true
----
