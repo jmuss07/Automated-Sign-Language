@@ -5,7 +5,7 @@ A collection of videos recorded for documentation.
 Box Video:
 
 <video width="320" height="240" controls>
-  <source src="/Videos/2022-02-09_Box-mp4.mp4" type="video/mp4">
+  <source src="Videos\2022-02-09_Box-mp4.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
