@@ -142,16 +142,14 @@ The OpenBionics Lab's ADA v1.1 hand has designs for exactly what we're doing. Bu
 Below, is documentation of a single makeshift finger. Designed with minimal 3D printing, so manufacturing time is low. Overall, the only 3D-printed parts are the dowels, which take all of 10 minutes.
 
 <video width="320" height="240" controls>
-  <source src="Videos\2022-02-09_Box-mp4.mp4" type="video/mp4">
+  <source src="https://github.com/jmuss07/Automated-Sign-Language/blob/fac593de36f8d3b9b46a422808b09c6cee44bb88/Videos/2022-02-09_Box-mp4.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
 
 <video width="320" height="240" controls>
   <source src="Videos\2022-02-09_Finger-mp4.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
 
 Now, it's time to move onto the design of the final hand. The ADA v1.1 hand is made of a lot of Ninjaflex, too much for our project's budget. The final phase 2 goal is to cut this down.
 
@@ -178,6 +176,20 @@ That was written over 2 months ago. Now, work starts again. At the moment, we ha
 _Update 2022-05-13_: I (Henry) am currently trying to design a frame for the hand, to replace what we cut off of the model in Blender.
 
 _2022-06-03_: It's been a minute, or two, or almost a month since the last update. It's been rough.
+
+### Henry's Reflection
+
+So, this is the last day of Engineering for the 2021-2022 school year. I have some things to say.
+
+- Despite not finishing, I am _extremely_ proud of what I did this year. Last year, my project was nowhere near this finished.
+
+- I made this design way too small and detailed. Half of the laser-cut pieces (the frame) snapped, and half of the 3D printed pieces (the finger joints) printed incorrectly.
+
+- Bad documentation hurts you when you need to come back to the project after a break.
+
+- Problem solving really helps, problem avoiding never does.
+
+- When something's going wrong, and you just want to quit: Do it. Take a break, calm down, and come back at a different angle.
 
 ## About Us
 
