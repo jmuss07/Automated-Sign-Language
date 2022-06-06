@@ -141,36 +141,19 @@ The OpenBionics Lab's ADA v1.1 hand has designs for exactly what we're doing. Bu
 
 Below, is documentation of a single makeshift finger. Designed with minimal 3D printing, so manufacturing time is low. Overall, the only 3D-printed parts are the dowels, which take all of 10 minutes.
 
+Finger Video:
+
 https://user-images.githubusercontent.com/71345201/172168732-d8e445a4-d9d3-42a7-b983-bf6e3092c325.mp4
 
+Box Video:
+
 https://user-images.githubusercontent.com/71345201/172168760-eeb97748-df77-4b64-b599-513adac0ddce.mp4
-
-<figure class="video_container">
-  <video width="320" height="240" controls="true" allowfullscreen="true">
-    <source src="Videos\2022-02-09_Finger-mp4.mp4" type="video/mp4">
-  </video>
-</figure>
-
 
 Now, it's time to move onto the design of the final hand. The ADA v1.1 hand is made of a lot of Ninjaflex, too much for our project's budget. The final phase 2 goal is to cut this down.
 
 So, it seems that the files provided by Open Bionics Labs were meshes, which Onshape does not support the editing of. The next best option is to either print the entire hand as-is, or re-design the fingers. The re-design would use the original .stl files as reference.
 
-<figure class="video_container">
-  <video width="320" height="240" controls="true" allowfullscreen="true">
-    <source src="Videos\2022-02-25_MeshIssues-mp4.mp4" type="video/mp4">
-  </video>
-</figure>
-
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true">
-    <source src="https://github.com/jmuss07/Automated-Sign-Language/blob/main/Videos/2022-02-25_MeshIssues-mp4.mp4" type="video/mp4">
-  </video>
-</figure>
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/FYziZeaYQL8" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+[Mesh Issues Video](Videos\2022-02-25_MeshIssues-mp4.mp4)
 
 ## Phase 3
 
@@ -182,10 +165,13 @@ That was written over 2 months ago. Now, work starts again. At the moment, we ha
 
 _Update 2022-05-13_: I (Henry) am currently trying to design a frame for the hand, to replace what we cut off of the model in Blender.
 
-_2022-06-03_: It's been a minute, or two, or almost a month since the last update. It's been rough.
+_2022-06-03_: It's been a minute, or two, or almost a month since the last update. It's been rough. Here's the penultimate video:
+
+[Penultimate Video](/Videos/2022-06-03_Penultimate-mp4.mp4)
 
 ### Josie's Reflection
-As the school year draws to a close, so too doe our project. Though we haven't fully completed it, we got extremely close, which, for such a complex project, is impressive. Throughout the experience, I've built on my pre-existing code skills. I've learned how to make and use code libraries of my own, for isntance! At times, the project *would* get frusturating. However, I managed to get past the challenges by taking brealks, looking at things differently, and asking for advice and feedback from those around me. 
+
+As the school year draws to a close, so too does our project. Though we haven't fully completed it, we got extremely close, which, for such a complex project, is impressive. Throughout the experience, I've built on my pre-existing code skills. I've learned how to make and use code libraries of my own, for isntance! At times, the project _would_ get frusturating. However, I managed to get past the challenges by taking brealks, looking at things differently, and asking for advice and feedback from those around me.
 
 ### Henry's Reflection
 
@@ -200,10 +186,6 @@ So, this is the last day of Engineering for the 2021-2022 school year. I have so
 - Problem solving really helps, problem avoiding never does.
 
 - When something's going wrong, and you just want to quit: Do it. Take a break, calm down, and come back at a different angle.
-
-### Josie's Reflection
-
-As the school year draws to a close, so too does our project. Though we haven't fully completed it, we got extremely close, which, for such a complex project, is impressive. Throughout the experience, I've built on my pre-existing code skills. I've learned how to make and use code libraries of my own, for isntance! At times, the project _would_ get frusturating. However, I managed to get past the challenges by taking brealks, looking at things differently, and asking for advice and feedback from those around me.
 
 ## About Us
 
