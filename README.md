@@ -145,20 +145,28 @@ https://user-images.githubusercontent.com/71345201/172168732-d8e445a4-d9d3-42a7-
 
 https://user-images.githubusercontent.com/71345201/172168760-eeb97748-df77-4b64-b599-513adac0ddce.mp4
 
+<figure class="video_container">
+  <video width="320" height="240" controls="true" allowfullscreen="true">
+    <source src="Videos\2022-02-09_Finger-mp4.mp4" type="video/mp4">
+  </video>
+</figure>
+
+
 Now, it's time to move onto the design of the final hand. The ADA v1.1 hand is made of a lot of Ninjaflex, too much for our project's budget. The final phase 2 goal is to cut this down.
 
 So, it seems that the files provided by Open Bionics Labs were meshes, which Onshape does not support the editing of. The next best option is to either print the entire hand as-is, or re-design the fingers. The re-design would use the original .stl files as reference.
 
-<video width="320" height="240" controls>
-  <source src="Videos\2022-02-25_MeshIssues-mp4.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<figure class="video_container">
+  <video width="320" height="240" controls="true" allowfullscreen="true">
+    <source src="Videos\2022-02-25_MeshIssues-mp4.mp4" type="video/mp4">
+  </video>
+</figure>
 
-<p><video src="https://github.com/jmuss07/Automated-Sign-Language/blob/main/Videos/2022-02-25_MeshIssues-mp4.mp4" controls class="html5-video-player">
-Your browser does not support playing HTML5 video.
-You can <a href="https://github.com/jmuss07/Automated-Sign-Language/blob/main/Videos/2022-02-25_MeshIssues-mp4.mp4" download>download the file</a> instead.
-Here is a description of the content: text
-</video></p>
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true">
+    <source src="https://github.com/jmuss07/Automated-Sign-Language/blob/main/Videos/2022-02-25_MeshIssues-mp4.mp4" type="video/mp4">
+  </video>
+</figure>
 
 ## Phase 3
 
