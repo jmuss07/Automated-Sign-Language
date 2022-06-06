@@ -154,6 +154,12 @@ So, it seems that the files provided by Open Bionics Labs were meshes, which Ons
   Your browser does not support the video tag.
 </video>
 
+<p><video src="https://github.com/jmuss07/Automated-Sign-Language/blob/main/Videos/2022-02-25_MeshIssues-mp4.mp4" controls class="html5-video-player">
+Your browser does not support playing HTML5 video.
+You can <a href="https://github.com/jmuss07/Automated-Sign-Language/blob/main/Videos/2022-02-25_MeshIssues-mp4.mp4" download>download the file</a> instead.
+Here is a description of the content: text
+</video></p>
+
 ## Phase 3
 
 Phase 3 is the combination and culmination of our work on the hand, string interpretation, and multi-servo control. As of now, this will not be achieved by the February 25th deadline. February 25th 2022, which at the time of writing, is today.
