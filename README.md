@@ -168,6 +168,10 @@ So, it seems that the files provided by Open Bionics Labs were meshes, which Ons
   </video>
 </figure>
 
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/FYziZeaYQL8" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 ## Phase 3
 
 Phase 3 is the combination and culmination of our work on the hand, string interpretation, and multi-servo control. As of now, this will not be achieved by the February 25th deadline. February 25th 2022, which at the time of writing, is today.
