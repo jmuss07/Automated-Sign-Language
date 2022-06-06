@@ -183,6 +183,10 @@ So, this is the last day of Engineering for the 2021-2022 school year. I have so
 
 - When something's going wrong, and you just want to quit: Do it. Take a break, calm down, and come back at a different angle.
 
+### Josie's Reflection
+
+As the school year draws to a close, so too does our project. Though we haven't fully completed it, we got extremely close, which, for such a complex project, is impressive. Throughout the experience, I've built on my pre-existing code skills. I've learned how to make and use code libraries of my own, for isntance! At times, the project _would_ get frusturating. However, I managed to get past the challenges by taking brealks, looking at things differently, and asking for advice and feedback from those around me.
+
 ## About Us
 
 ### **Josie Muss**
