@@ -14,10 +14,12 @@
 			"reportMissingModuleSource": "none"
 		},
 		"python.analysis.extraPaths": [
-			"",
+			"c:\\Users\\jmuss07\\.vscode\\extensions\\joedevivo.vscode-circuitpython-0.1.19-win32-x64\\boards\\0x239A\\0x8014",
 			"c:\\Users\\jmuss07\\.vscode\\extensions\\joedevivo.vscode-circuitpython-0.1.19-win32-x64\\stubs",
 			"c:\\Users\\jmuss07\\AppData\\Roaming\\Code\\User\\globalStorage\\joedevivo.vscode-circuitpython\\bundle\\20221107\\adafruit-circuitpython-bundle-py-20221107\\lib"
 		],
-		"circuitpython.board.version": "6.3.0"
+		"circuitpython.board.version": "6.3.0",
+		"circuitpython.board.vid": "0x239A",
+		"circuitpython.board.pid": "0x8014"
 	}
 }
