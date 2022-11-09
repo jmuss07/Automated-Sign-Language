@@ -1,8 +1,17 @@
-# README
+# Videos
 
-Note: Unless otherwise noted, all the raw recordings are in this folder. Additionally, all of their mp4 transcodes, limited to 10 Mb filesize, are in this folder.
+A collection of videos recorded for documentation.
 
-| Missing                        | Reason             |
-| ------------------------------ | ------------------ |
-| 2022-02-14_NinjaflexHand-_mkv_ | Filesize too large |
-| 2022-02-25_MeshIssues-_mkv_    | Filesize too large |
+[Box Video](Videos\2022-02-09_Box-mp4.mp4)
+
+[Finger Video](/Videos/2022-02-09_Finger-mp4.mp4)
+
+[Ninjaflex Hand Video](/Videos/2022-02-14_NinjaflexHand-mp4.mp4)
+
+[Mesh Issues Video](/Videos/2022-02-25_MeshIssues-mp4.mp4)
+
+[Josie Stuff 1 Video](/Videos/2022-03-01_JosieStuff-mp4.mp4)
+
+[Josie Stuff 2 Video](/Videos/2022-03-01_JosieStuff-2-mp4.mp4)
+
+[Penultimate Video](/Videos/2022-06-03_Penultimate-mp4.mp4)

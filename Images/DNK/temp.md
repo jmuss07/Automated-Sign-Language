@@ -1,3 +1,6 @@
+---
+nav_exclude: true
+---
 # DNK
 
 ![IMG_20211215_094508](https://user-images.githubusercontent.com/56935262/146208801-35b4f01e-27cd-4b8f-af3c-ea9aa8b6eb61.jpg)
