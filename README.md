@@ -599,7 +599,7 @@ So, this is the last day of Engineering for the 2021-2022 school year. I have so
 
 ### **Josie Muss**
 
-Hey there! I'm Josie, and I'm a member of Charlottesville High School's class of 2023! You can find more of my projects on my [Github](https://github.com/jmuss07). Any questions for me on either this project or any of others that I've worked on can be sent to me at [jmuss07@charlottesvilleschools.org](mailto:jmuss07@charlottesvilleschools.org).
+Hey there! I'm Josie, and I'm currently a student at Cal Poly, and graduated from Charlottesville High School class in 2023. This repository documents a project done in 2022 (my Junior year of high school). You can find more of my projects on my [Github](https://github.com/jmuss07). Any questions for me on either this project or any of others that I've worked on can be sent to me at [jmuss@calpoly.edu](mailto:jmuss@calpoly.edu).
 
 ### **Henry Heisig**
 
